@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dictionary-module-f4/static/css/main.dbed1adc.css",
+    "main.js": "/dictionary-module-f4/static/js/main.df8a9b67.js",
+    "static/media/heroImage.svg": "/dictionary-module-f4/static/media/heroImage.45b262d55444dece847ea075fdc3a5fc.svg",
+    "index.html": "/dictionary-module-f4/index.html",
+    "main.dbed1adc.css.map": "/dictionary-module-f4/static/css/main.dbed1adc.css.map",
+    "main.df8a9b67.js.map": "/dictionary-module-f4/static/js/main.df8a9b67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbed1adc.css",
+    "static/js/main.df8a9b67.js"
+  ]
+}
